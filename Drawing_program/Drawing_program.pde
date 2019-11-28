@@ -1,16 +1,16 @@
 // Global Variables
 
 void setup() {
-size(500, 600);
-quitButtonSetup();
+size(600, 600);
+ {rect(500, 0, 150, 700);}
 }
 
 void draw() {
-  quitButtonDraw();
+{rect(0, 0, 600, 75);}
 }
 
 void mousePressed() {
-  quitButtonMouseClicked();
+
 }
 
 void keyPressed() {

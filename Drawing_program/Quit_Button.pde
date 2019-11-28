@@ -3,7 +3,7 @@
 void quitButtonSetup() {
 }
 
-void quitButtonDraw() {
+void quitButtonDraw(){
 }
 
 void quitButtonMouseClicked() {
